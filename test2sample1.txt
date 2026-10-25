@@ -1,0 +1,1 @@
+this is the first sample of the new file created within the clone repo test2
